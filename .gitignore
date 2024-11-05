@@ -1,0 +1,18 @@
+/.pytest_cache
+/.vscode
+/algorithm tester.py
+/class_methods.py
+/dessertshop.py
+/dessert_class.py
+/dessert_shop.py
+/equations.py
+/halloween.py
+/menu_class.py
+/movie class.py
+/polymorphism.py
+/polymorphism_lab.py
+/sub_class_notes.py
+/test.py
+/testing
+/UML_notes.py
+/__pycache__
